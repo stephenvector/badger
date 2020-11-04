@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "outDir": "./build",
+    "skipLibCheck": true
+  },
+  "files": ["./src/server.tsx"],
+  "exclude": ["node_modules"]
+}
